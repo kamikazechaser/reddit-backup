@@ -13,6 +13,17 @@ A CLI to backup a Reddit user's personal data
 - ~Select specific keys from the `data` object~
 - ~Scrape public user data~
 
+## Installation (_Temp_)
+
+Temporary installation instructions untill #6 is closed
+
+```
+$ git clone https://github.com/kamikazechaser/reddit-backup.git
+$ cd reddit-backup
+$ npm i
+$ node cli
+```
+
 ## Usage
 
 ```
